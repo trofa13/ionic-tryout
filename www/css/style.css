@@ -1,0 +1,10 @@
+/* Empty. Add your own CSS if you like */
+.item-icon-right.completed{
+    color: grey;
+    text-decoration: line-through;
+    background-color: rgba(0, 200, 0, .2);
+}
+
+.item-icon-right{
+    background-color: rgba(200,0,0, .2);
+}
